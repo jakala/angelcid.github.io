@@ -78,4 +78,4 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: tcbutler320/Jekyll-Theme-Dumbarton
+remote_theme: carlosperate/jekyll-theme-rtd
