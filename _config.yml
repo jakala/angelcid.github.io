@@ -78,4 +78,4 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: carlosperate/jekyll-theme-rtd
+remote_theme: vvalchev/creative-theme-jekyll-new
